@@ -1,5 +1,4 @@
-// import NumberSchema from './NumberSchema.js';
-// import ObjectSchema from './ObjectSchema.js';
+/* eslint-disable class-methods-use-this */
 
 import StringSchema from './StringSchema.js';
 import ArraySchema from './ArraySchema.js';

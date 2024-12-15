@@ -1,3 +1,4 @@
+/* eslint-disable class-methods-use-this */
 /* eslint-disable linebreak-style */
 class StringSchema {
   validator = (value) => typeof value === 'string';
